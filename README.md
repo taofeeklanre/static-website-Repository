@@ -201,7 +201,7 @@ html.png: Reference architecture diagram for the project.
 README.md: This README file.
 
 ## Website displayed
-![Alt text](html.png)
+![Alt text](html1.png)
 
 ## Additional Resources
 AWS VPC Documentation
