@@ -221,7 +221,8 @@ AWS Route 53 Documentation
 
 GitHub Guides
 
-Conclusion
+## Conclusion
+
 This project demonstrates how to host a static website on AWS with high availability, fault tolerance, scalability, and elasticity using various AWS services and resources. The use of VPC, subnets, Internet Gateway, Nat Gateway, Bastion host, Application Load Balancer, EC2 instances, Auto Scaling Group, Route 53, and GitHub ensures a robust and reliable hosting environment for the web app.
 
 
