@@ -48,6 +48,7 @@ yum install -y httpd
 cd  /var/www/html
 
 wget https://github.com/taofeeklanre/static-website-Repository/raw/main/Speed%20Free%20Cycle.zip
+
 unzip Speed\ Free\ Cycle.zip 
 
 cp -r /var/www/html/speed/* /var/www/html
