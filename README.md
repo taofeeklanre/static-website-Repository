@@ -134,11 +134,13 @@ Review and launch the instance, selecting or creating a key pair for SSH access.
    
     sudo git clone https://github.com/taofeeklanre/static-website-Repository/raw/main/Speed%20Free%20Cycle.zip
 
+     unzip Speed\ Free\ Cycle.zip 
+
      cp -r /var/www/html/speed/* /var/www/html
 
-    cd /var/www/html
+     cd /var/www/html
 
-    rm -rf Speed\ Free\ Cycle.zip
+     rm -rf Speed\ Free\ Cycle.zip
 
 6. Start the Apache service and enable it to start on boot:
 
