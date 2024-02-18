@@ -198,6 +198,13 @@ deploy.sh: Bash script for deploying the website to EC2 instances.
 
 html.png: Reference architecture diagram for the project.
 
+finexo.zip: Application code in zip format
+
+others: Application code in file and folder.
+
+html1.png: Website displayed for the application.
+
+
 README.md: This README file.
 
 ## Website displayed
