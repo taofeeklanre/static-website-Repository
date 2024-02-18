@@ -196,7 +196,7 @@ By following these additional steps, you can set up Route 53 for DNS management,
 ## Repository Structure
 deploy.sh: Bash script for deploying the website to EC2 instances.
 
-Reference Architecture.JPG: Reference architecture diagram for the project.
+html.png: Reference architecture diagram for the project.
 
 README.md: This README file.
 
