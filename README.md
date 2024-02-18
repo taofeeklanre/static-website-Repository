@@ -1,11 +1,10 @@
-HOW TO DEPLOY A STATIC WEBSITE ON AWS
-
+# HOW TO DEPLOY A STATIC WEBSITE IN AWS
 ![Alt text](Reference Architecture.png)
 
-Overview
+## Project Overview
 This project demonstrates hosting a static HTML web app on AWS using various resources like VPC, subnets, Internet Gateway, Nat Gateway, Bastion host, Application Load Balancer, EC2 instances, Auto Scaling Group, and Route 53. The project aims to achieve high availability, fault tolerance, scalability, and elasticity for the web app.
 
-Architecture
+## Architecture
 
 VPC Configuration:
 
@@ -34,7 +33,8 @@ Stored website files on GitHub.
 AMI Creation:
 
 Once the website is installed on the EC2 Instance, the EC2 instance is used to create an AMI.
-Deployment Script
+
+## Deployment Script
 bash
 Copy code
 #!/bin/bash
