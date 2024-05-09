@@ -132,7 +132,7 @@ Review and launch the instance, selecting or creating a key pair for SSH access.
 
     cd /var/www/html
    
-    sudo git clone https://github.com/taofeeklanre/static-website-Repository/raw/main/Speed%20Free%20Cycle.zip
+    wget https://github.com/taofeeklanre/static-website-Repository/raw/main/Speed%20Free%20Cycle.zip
 
      unzip Speed\ Free\ Cycle.zip 
 
